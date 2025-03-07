@@ -1,0 +1,40 @@
+.qcm-form {
+    background: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .qcm-form h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .qcm-form form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+  
+  .qcm-form input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .qcm-form button {
+    background: #007bff;
+    color: white;
+    padding: 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+  }
+  
+  .qcm-form button:hover {
+    background: #0056b3;
+  }
+  

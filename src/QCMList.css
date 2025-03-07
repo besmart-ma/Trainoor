@@ -1,0 +1,44 @@
+.qcm-list {
+    background: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .qcm-list h2 {
+    text-align: center;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .qcm-list table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .qcm-list th, .qcm-list td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .qcm-list th {
+    background: #007bff;
+    color: white;
+  }
+  
+  .qcm-list button {
+    background: #dc3545;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background 0.3s;
+    margin-right: 5px;
+  }
+  
+  .qcm-list button:hover {
+    background: #c82333;
+  }
+  
